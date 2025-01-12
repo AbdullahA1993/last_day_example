@@ -1,3 +1,3 @@
 my first file and first commit
 more changes
-MORE LOCAL CHANGES
+MORE LOCAL CHANGES .
